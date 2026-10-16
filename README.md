@@ -265,4 +265,4 @@ This repository serves as the official landing page for JDownloader. The softwar
 **Get the most recent version of JDownloader today!**
 
 ---
-**Last updated:** 2026-10-16 12:18:51 UTC
+**Last updated:** 2026-10-16 17:18:14 UTC
